@@ -27,6 +27,6 @@
     }
   ]
   "url": "https://github.com/MJ-Deepshadow/NOC-Aventures",
-  "manifest": "https://raw.githubusercontent.com/MJ-Deepshadow/NOC-Aventures/main/module.json?token=GHSAT0AAAAAACEVVU7N4LONLB73OPL2NFVEZFFN26Q",
+  "manifest": "https://raw.githubusercontent.com/MJ-Deepshadow/NOC-Aventures/main/module.json",
   "download": "https://github.com/MJ-Deepshadow/NOC-Aventures/archive/refs/heads/main.zip"
 }
