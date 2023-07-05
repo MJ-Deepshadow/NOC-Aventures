@@ -1,0 +1,29 @@
+{
+  "id": "noc-aventures",
+  "title": "NOC Aventures",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Deepshadow des Obscurôlistes",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "label": "NOC Aventures",
+      "name": "noc-aventures",
+      "type": "Adventure",
+      "system": "noc",
+      "path": "packs/noc-aventures",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
