@@ -14,7 +14,7 @@ Cette utilisation ne peut être considérée comme une cession de droit, mais un
 ## Prélude à Olomóc :
 
 Cette aventure est introductive au monde de NOC et peut être jouée en prélude à la campagne officielle "Lueurs Obsidionnales" éditée par Sethmes éditions. 
-Elle comporte 4 personnages prétirés prévus pour ce scénario mais peut-être jouée avec d'autres personnages selon l'envie des joueurs et du maître de jeu. 
+Elle comporte 4 personnages prétirés prévus pour ce scénario mais peut être jouée avec d'autres personnages selon l'envie des joueurs et du maître de jeu. 
 Vous y découvrirez certains secrets concernant le bloc d'Olomóc et des figures importantes des lieux.
 
 
